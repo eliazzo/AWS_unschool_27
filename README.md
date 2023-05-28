@@ -1,6 +1,6 @@
 # Welcome to your CDK JavaScript project
 
-This is a blank project for CDK development with JavaScript.
+This is a learning project to practice CDK development with JavaScript.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app. The build step is not required when using JavaScript.
 
